@@ -2,7 +2,7 @@
 # Remove MOTUs that have more than 10% of their reads in a 
 # random blank sample.
 # 
-# Script created by MORAIS, D.K. and Brandner, M.M.
+# Script created by MORAIS, D.K. and BRANDNER, M.M.
 # Contact at daniel.morais@uit.no
 #
 # Created (20/07/2023)
