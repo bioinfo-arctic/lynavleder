@@ -14,6 +14,9 @@
 # be sure to avoid starting sample names with those words otherwise 
 # they can be identified as blanks.
 #
+# R version 4.2.3
+# tidyverse_2.0.0, dplyr_1.1.2, purrr_1.0.1, tidyr_1.3.0
+#
 #######################################################################
 
 # Load your library
